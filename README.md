@@ -10,7 +10,7 @@
 1. Clonar projeto:
 
 ```bash
-git clone git@github.com:GustavoVieiraDeAraujo/Trabalho-Seguranca-Computacional.git
+git clone [git@github.com:GustavoVieiraDeAraujo/Trabalho-Seguranca-Computacional.git](https://github.com/GustavoVieiraDeAraujo/Trabalho-Seguranca-Computacional.git)
 ```
 
 1. Entrar na pasta `parte_1_211068440`:
