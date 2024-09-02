@@ -16,7 +16,7 @@ git clone https://github.com/GustavoVieiraDeAraujo/Trabalho-Seguranca-Computacio
 1. Entrar na pasta `parte_1_211068440`:
 
 ```bash
-cd ./parte_1_211068440
+cd ./Projeto-Seguranca-Computacional/parte_1_211068440
 ```
 
 2. Baixar bibliotecas necessarias:
