@@ -50,8 +50,7 @@ cd ./Projeto-Seguranca-Computacional/parte_2_211068403
 3. Baixar bibliotecas necessarias:
 
 ```bash
-pip install numpy
-pip install haslib
+pip install numpy haslib
 ```
 
 4. Executar o codigo:
