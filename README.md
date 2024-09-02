@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Gustavo Vieira de Araújo - Matrícula: 211068440;
-- Luis Henrique Schwab Rodrigues - Matrícula: 212007162;
+- Luiz Henrique Figueiredo Soares - Matrícula: 212007162;
 
 ## Como rodar os testes da cifração e decifração do AES-128 ?
 
@@ -29,4 +29,23 @@ pip install numpy pycryptodome
 
 ```bash
  python3 ./testes.py
+```
+
+1. Entrar na pasta `parte_2_211068403`:
+
+```bash
+cd ./Projeto-Seguranca-Computacional/parte_2_211068403
+```
+
+2. Baixar bibliotecas necessarias:
+
+```bash
+pip install numpy
+pip install haslib
+```
+
+2. Executar o codigo:
+
+```bash
+ python3 ./RSA-OEAP.py
 ```
