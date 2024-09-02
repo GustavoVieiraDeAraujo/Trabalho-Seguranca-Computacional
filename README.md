@@ -5,9 +5,7 @@
 - Gustavo Vieira de Araújo - Matrícula: 211068440;
 - Luiz Henrique Figueiredo Soares - Matrícula: 211068403;
 
----
 **!!! Observação: Os relatorios de cada parte estão na respectivas pastas de cada parte !!!**
----
 
 ## Como rodar os testes da cifra/decifra de bloco e modo de operação CTR (AES-128) ?
 
