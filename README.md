@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Gustavo Vieira de Araújo - Matrícula: 211068440;
-- Luiz Henrique Figueiredo Soares - Matrícula: 212007162;
+- Luiz Henrique Figueiredo Soares - Matrícula: 211068403;
 
 ---
 **!!! Observação: Os relatorios de cada parte estão na respectivas pastas de cada parte !!!**
@@ -52,8 +52,7 @@ cd ./Projeto-Seguranca-Computacional/parte_2_211068403
 3. Baixar bibliotecas necessarias:
 
 ```bash
-pip install numpy
-pip install haslib
+pip install numpy haslib
 ```
 
 4. Executar o codigo:
